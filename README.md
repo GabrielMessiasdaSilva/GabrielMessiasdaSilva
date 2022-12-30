@@ -1,8 +1,6 @@
-Olá sou Gabriel Messias,seja bem vindo !!
-
-Iniciante na area de Programação
-
-Curso Desenvolvimento de Sistema
+<h1 align="center">Olá sou Gabriel Messias,seja bem vindo !</h1>
+<h4 align="center">Pequeno gafanhoto e aprendiz na area de Programação</h4>
+<h4 align="center">Curso Desenvolvimento de Sistema</h4>
 
 <div align="center">
   <a href="https://github.com/GABRIELMESSIASDASILVA">
@@ -12,7 +10,7 @@ Curso Desenvolvimento de Sistema
                                           
         
 <div style="display: inline_block"><br>
-  <h2> LINGUAGENS QUE TRABALHO/APRENDENDO</h2>
+  <h2> LINGUAGENS QUE SEI / ESTOU APRENDENDO</h2>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
