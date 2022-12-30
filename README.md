@@ -1,20 +1,26 @@
-👋 Olá! Eu sou Gabriel Messias
+Olá sou Gabriel Messias,seja bem vindo !!
 
-👀 Atualmente estou cursando Desenvolvimento de Sistema.
+Iniciante na area de Programação
 
-Estudo sobre o desenvolvimento front end,backend e desenvolvimento mobile. 
+Curso Desenvolvimento de Sistema
 
 <div align="center">
   <a href="https://github.com/GABRIELMESSIASDASILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+                                          
+        
 <div style="display: inline_block"><br>
+  <h2> LINGUAGENS QUE TRABALHO/APRENDENDO</h2>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gabriel-Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Gabriel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
   
   ##
