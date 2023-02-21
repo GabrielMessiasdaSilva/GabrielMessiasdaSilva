@@ -36,4 +36,4 @@
   <a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielMessiasdaSilva&bg_color=0a0a0a&color=ffffff&line=2f4075&point=4f7c31&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielMessiasdaSilva&bg_color=0a0a0a&color=ffffff&line=2f4075&point=4f7c31&area=true&hide_border=true)](https://github.com/GabrielMessiasdaSilva/github-readme-activity-graph)
