@@ -75,7 +75,6 @@ Minha dedicação e comprometimento com meus projetos de programação são admi
 <h2 align="center">Habilidade sendo adquirida/Linguagem por diversão</h2>
     <p align="center">
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="40" height="40"/>
-     <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 
 
