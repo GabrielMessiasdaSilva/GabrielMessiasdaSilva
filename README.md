@@ -113,4 +113,9 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado. Vamos troc
  </p>
 </div>
 
+  <div align="center">
+<br><p align="centre"><b>Você está me visitando né,eu sei hahaha</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielMessiasdaSilva}/count.svg" /></p> 
+<br></div>
+
 
