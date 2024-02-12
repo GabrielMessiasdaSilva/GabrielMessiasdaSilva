@@ -72,15 +72,12 @@ Minha dedicação e comprometimento com meus projetos de programação são admi
   
 <!-- Habilidade sendo adquirida -->
   <div>
-<h2 align="center">Habilidade sendo adquirida/Linguagem por diversão</h2>
+<h2 align="center"> Robtica </h2>
     <p align="center">
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 
 
-  <p align="center"> Estou aprendendo a programar com Arduíno</p>
-    </p>
-  </div>
   
   
  
@@ -95,7 +92,7 @@ Minha dedicação e comprometimento com meus projetos de programação são admi
 </p>
 <p align="center">Sou bom em oratória, trabalho em equipe, metodologias ágeis e gerenciamento de equipes.</p>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielMessiasdaSilva&bg_color=0a0a0a&color=ffffff&line=2f4075&point=4f7c31&area=true&hide_border=true)](https://github.com/GabrielMessiasdaSilva/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMessiasdaSilva&bg_color=070d12&color=fffaff&line=1c735d&point=10c6f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -115,10 +112,11 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado. Vamos troc
 
  <div align="center">
     <br>
-    <p align="centre"><b>Você está me visitando né, eu sei hahaha</b></p>
+    <p align="centre"><b>Você está me visitando né, eu sei hahaha</b></p> 
     <img align="center" src="https://profile-counter.glitch.me/{GabrielMessiasdaSilva}/count.svg" alt="Contador de Visitas" />
     <br>
- 
+
+
 </div>
 
 
