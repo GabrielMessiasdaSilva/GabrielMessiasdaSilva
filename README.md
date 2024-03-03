@@ -5,8 +5,9 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Foto do Gabriel" height="200"/>
+  <img src="github-octocat.png" alt="Foto do Gabriel" height="200"/>
 </p>
+
 
 ## SOBRE MIM  
 
