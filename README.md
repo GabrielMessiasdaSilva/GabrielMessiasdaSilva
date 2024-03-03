@@ -5,7 +5,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="OctosEsteroides.png" alt="Foto do Gabriel" height="300"/>
+  <img src="OctosEsteroides.png" alt="Foto do Gabriel" height="300" width="300"/>
    
 </p>
 
