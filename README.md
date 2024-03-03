@@ -5,7 +5,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="github-octocat.png" alt="Foto do Gabriel" height="200"/>
+  <img src="github-octocat-logo-png-octodex-api-octodex-json-at-master-cocoaheads-miami-octodex-api-github-896.png" alt="Foto do Gabriel" height="200"/>
 </p>
 
 
