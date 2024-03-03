@@ -12,22 +12,8 @@
 ## SOBRE MIM  
 
 <p>
-
-Olá! Sou um estudante de programação atualmente cursando Desenvolvimento de Sistemas na ETEC. Tenho um profundo interesse e paixão pela tecnologia, com o objetivo de me tornar um profissional altamente competente na área de Tecnologia da Informação em todas as suas esferas. Além de estudar e praticar o desenvolvimento de software, busco compreender detalhadamente as metodologias ágeis e a linguagem de modelagem UML. Minha abordagem vai além da simples escrita de código; concentro-me em analisar cuidadosamente os problemas e criar soluções eficazes e robustas. Estou comprometido em adquirir habilidades holísticas que me permitam ser um membro valioso e versátil em qualquer equipe de desenvolvimento.
-
-
-
-
-Dedico uma parte significativa do meu tempo livre para aprimorar minhas habilidades de programação, focando principalmente em linguagens e tecnologias essenciais para o desenvolvimento web e mobile. Estudo intensivamente Kotlin para o desenvolvimento mobile, e JavaScript/TypeScript para a criação de aplicações web dinâmicas. Além disso, busco dominar tecnologias fundamentais como HTML e CSS, enquanto explorando frameworks renomados como Bootstrap, React e Angular, nos quais tenho um interesse particular.
-
-
-Para o desenvolvimento do lado do servidor, utilizo PHP e estou iniciando meus estudos no Laravel, um framework poderoso e amplamente reconhecido. Além disso, em relação ao Java, posso afirmar que tenho uma base sólida devido a dois anos de estudo dedicado e uma quantidade bastante interessante de projetos desenvolvidos nessa linguagem. Recomendo que dê uma olhada nos meus repositórios para conferir alguns desses projetos.
-
-
-
-Sempre busco aprimorar minhas habilidades técnicas através de estudos contínuos, mas também reconheço a importância do desenvolvimento das minhas habilidades interpessoais, as chamadas soft skills. É essa combinação entre aprimoramento constante das hard skills e o desenvolvimento das soft skills que me diferencia,Minha determinação em me tornar um programador habilidoso certamente me levará a grandes realizações em minha carreira como desenvolvedor <b>Full Stack<b> .</p>
-
-
+Olá! Sou um estudante de programação na ETEC, apaixonado por tecnologia e buscando me tornar um profissional competente em TI. Meu foco é desenvolvimento de software, metodologias ágeis e UML. Além de estudar, pratico habilidades em linguagens e tecnologias como Kotlin, JavaScript/TypeScript, HTML, CSS e frameworks como Bootstrap, React e Angular. No lado do servidor, utilizo PHP e estou começando a aprender Laravel. Com uma base sólida em Java e diversos projetos desenvolvidos, estou sempre em busca de melhorias técnicas e interpessoais para me tornar um programador Full Stack de destaque.
+</p>
 
 <br><br>
 
