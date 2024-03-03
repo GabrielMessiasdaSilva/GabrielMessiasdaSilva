@@ -6,6 +6,7 @@
 <!-- Foto -->
 <p align="center">
   <img src="OctosEsteroides.png" alt="Foto do Gabriel" height="200"/>
+   <img src="as.png" alt="Foto do Gabriel" height="200"/>
 </p>
 
 
