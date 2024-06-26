@@ -42,8 +42,9 @@ Olá! Sou um estudante de programação na ETEC, apaixonado por tecnologia e bus
 </p>
 
 <!-- Ferramentas de desenvolvimento -->
-<h2 align="center">Ferramentas de desenvolvimento</h2>
+<h2 align="center">Ferramentas que utilizo</h2>
 <p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img alt="Gabriel-Figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -65,8 +66,8 @@ Olá! Sou um estudante de programação na ETEC, apaixonado por tecnologia e bus
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
+<img width="48" height="48" src="https://img.icons8.com/nolan/64/angularjs.png" alt="angularjs"/>
+<img width="48" height="48" src="https://img.icons8.com/arcade/64/laravel.png" alt="laravel"/>
 </p>
 
 <!-- Habilidades sendo adquiridas -->
