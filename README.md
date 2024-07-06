@@ -44,7 +44,6 @@ Olá! Sou um estudante de programação na ETEC, apaixonado por tecnologia e bus
 <!-- Ferramentas de desenvolvimento -->
 <h2 align="center">Ferramentas que utilizo</h2>
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img alt="Gabriel-Figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
