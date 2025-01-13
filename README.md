@@ -8,7 +8,7 @@
 <!-- Sobre mim -->
 ## Sobre mim
 
-Olá! Sou Gabriel Messias da Silva, estudante de programação na ETEC, com grande paixão por tecnologia e desenvolvimento de software. Estou focado em metodologias ágeis e UML, e trabalho com uma variedade de linguagens e frameworks, como:
+Olá! Sou Gabriel Messias da Silva, estudante de Análise e Desenvolvimento de Sistemas, com grande paixão por Tecnologia. Estou focado em metodologias ágeis e UML, e trabalho com uma variedade de linguagens e frameworks, como:
 
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Angular, Bootstrap
 - **Backend**: PHP, Laravel
