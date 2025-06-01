@@ -35,7 +35,7 @@ Além disso, possuo uma base sólida em **Java** e estou sempre explorando novos
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Nodejs"/> 
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
 
 </p>
