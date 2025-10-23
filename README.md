@@ -1,113 +1,95 @@
-
-
-<!-- Saudação com animação -->
+<!-- Animação de boas-vindas -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+em+formação+🚀&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D19D&center=true&vCenter=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sou+Desenvolvedor+em+Formação+🚀">
 </p>
-
-<!-- Sobre mim -->
-## Sobre mim
-
-Olá! Sou Gabriel Messias da Silva, estudante de Análise e Desenvolvimento de Sistemas, com grande paixão por Tecnologia. Estou focado em metodologias ágeis e UML, e trabalho com uma variedade de linguagens e frameworks, como:
-
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Angular, Bootstrap
-- **Backend**: Node,Java
-- **Mobile**: React Native
-- **Ferramentas**: Git, GitHub, Android Studio, Figma, VS Code
-
-Além disso, possuo uma base sólida em **Java** e estou sempre explorando novos conhecimentos para me tornar um **desenvolvedor Full Stack** de destaque. Busco aprimorar minhas habilidades técnicas e interpessoais para enfrentar novos desafios no mundo da TI.
 
 ---
 
-<!-- Estatísticas do GitHub -->
+## 👨‍💻 Sobre mim
+
+Sou **Gabriel Messias**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e por transformar ideias em código.  
+Focado em me tornar um **Desenvolvedor Full Stack**, domino o ecossistema **JavaScript/TypeScript**, **Node.js** e **Java**, criando aplicações completas e bem estruturadas.
+
+Gosto de aplicar **metodologias ágeis**, modelar sistemas com **UML**, e seguir princípios de **código limpo e boas práticas**.
+
+---
+
+## ⚙️ Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+</p>
+
+---
+
+## 🧩 Frameworks e Estilo
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/>
+</p>
+
+---
+
+## 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+</p>
+
+---
+
+## 🧰 Ferramentas e IDEs
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/GABRIELMESSIASDASILVA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
-<!-- Tecnologias -->
-<h2 align="center">Linguagens e Tecnologias</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Nodejs"/> 
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+## 📈 Atividade Recentes
 
-</p>
-
-<!-- Ferramentas -->
-<h2 align="center">Ferramentas de Desenvolvimento</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50" width="60">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
-</p>
-
-<!-- Frameworks -->
-<h2 align="center">Frameworks</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS"/>
-  <img src="https://img.icons8.com/nolan/64/angularjs.png" alt="AngularJS"/>
-  <img src="https://img.icons8.com/arcade/64/laravel.png" alt="Laravel"/>
-</p>
-
-<!-- Bancos de dados -->
-<h2 align="center">Bancos de Dados</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/sql" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase" alt="SQL Server"/>
-</p>
-
-<!-- Robótica -->
-<h2 align="center">Robótica</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" alt="C++"/>
-</p>
-
-<!-- Habilidades pessoais -->
-<h2 align="center">Habilidades Pessoais</h2>
-<p align="center">
-  <img src="https://img.icons8.com/fluency/40/null/hard-working.png" alt="Trabalho Duro"/>
-  <img src="https://img.icons8.com/office/40/null/statistics.png" alt="Estatísticas"/>
-  <img src="https://img.icons8.com/color/40/null/training.png" alt="Treinamento"/>
-</p>
-<p align="center">Tenho habilidades em oratória, trabalho em equipe, metodologias ágeis e gerenciamento de projetos.</p>
+[![Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GABRIELMESSIASDASILVA&bg_color=0d1117&color=00ffcc&line=00d19d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<!-- Gráfico de atividades -->
-[![Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMessiasdaSilva&bg_color=070d12&color=fffaff&line=1c735d&point=10c6f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🌐 Contato
 
----
-
-<!-- Contato -->
-<h2 align="center">Entre em Contato</h2>
 <p align="center">
   <a href="https://instagram.com/gabrielmessias816" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-    <br>
-    <h4 align="center">Obrigado por visitar meu perfil! Entre em contato pelo LinkedIn ou Instagram para discutirmos ideias e oportunidades. Estou sempre aberto a novas conexões e aprendizagens. Vamos crescer juntos!</h4>
-    <img src="https://profile-counter.glitch.me/{GabrielMessiasdaSilva}/count.svg" alt="Contador de Visitas"/>
-    <br>
+  <h4>💬 Obrigado por visitar meu perfil!</h4>
+  <p>Curioso por novas ideias, projetos e desafios — vamos trocar uma ideia!</p>
+  <img src="https://profile-counter.glitch.me/{GabrielMessiasdaSilva}/count.svg" alt="Contador de Visitas"/>
 </div>
-
