@@ -91,5 +91,4 @@ Gosto de aplicar **metodologias ágeis**, modelar sistemas com **UML**, e seguir
 <div align="center">
   <h4>💬 Obrigado por visitar meu perfil!</h4>
   <p>Curioso por novas ideias, projetos e desafios — vamos trocar uma ideia!</p>
-  <img src="https://profile-counter.glitch.me/{GabrielMessiasdaSilva}/count.svg" alt="Contador de Visitas"/>
 </div>
