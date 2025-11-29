@@ -1,61 +1,63 @@
-# Gabriel Messias — Desenvolvedor Full Stack
-**Estudante de Análise e Desenvolvimento de Sistemas • JavaScript | TypeScript | Node.js | React Native**
+# 🚀 Gabriel Messias — Desenvolvedor Full Stack
+
+### Estudante de Análise e Desenvolvimento de Sistemas | 💻 JavaScript | ⚛️ React Native | 🟢 Node.js
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D19D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-ReactNative%20|%20TypeScript%20|%20Firebase-101010?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Location-Brasil-005F73?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D19D?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Stack_Principal-React_Native%20|%20TypeScript%20|%20Firebase-282C34?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Localização-São_Paulo,_Brasil-005F73?style=for-the-badge&logo=brasil"/>
 </p>
 
 ---
 
-## Sobre
-Sou **Gabriel Messias**, foco em entregar aplicações móveis e web sólidas e fáceis de manter. Trabalho com **front-to-back**: interfaces responsivas, APIs bem estruturadas e integração com serviços em nuvem. Interesse especial em produtos educacionais e soluções que impactam usuários reais.
+## 👨‍💻 Sobre Mim
+
+Sou **Gabriel Messias**, um desenvolvedor Full Stack com foco em construir **soluções móveis e web** que são robustas, escaláveis e, principalmente, fáceis de manter. Meu trabalho abrange o **ecossistema Full Stack**, desde a criação de interfaces responsivas e otimizadas com **React Native** até o desenvolvimento de APIs eficientes com **Node.js** e integração com serviços em nuvem como **Firebase**.
+
+Minha prioridade é aplicar conceitos de **arquitetura limpa** (Clean Architecture) e focar em produtos educacionais e soluções que geram um **impacto real e positivo** para o usuário final.
 
 ---
 
-## O que eu faço (rápido)
-- Desenvolvo apps mobile com **React Native + TypeScript**.  
-- Construa backends com **Node.js** e integrações via **Firebase / Firestore**.  
-- Prioridade em **arquitetura limpa**, testes básicos e entrega contínua.
+## 🛠️ Minhas Habilidades Técnicas
+
+| Área | Tecnologias Chave |
+| :--- | :--- |
+| **Linguagens** | **TypeScript**, JavaScript, Java |
+| **Desenvolvimento Mobile** | **React Native** (Expo & CLI), Context API / Redux, Estilização Avançada |
+| **Backend & Banco de Dados** | **Node.js**, Express.js, **Firebase** (Auth, Firestore, Storage) |
+| **Ferramentas & DevOps** | Git, GitHub Actions (CI simples), VS Code |
+| **Metodologias** | Scrum / Kanban, **Princípios de TDD**, Clean Architecture (Conceitos) |
 
 ---
 
-## Skills principais
-- **Linguagens:** TypeScript, JavaScript, Java  
-- **Mobile:** React Native (Expo / Bare)  
-- **Backend:** Node.js, Express, Firebase (Auth, Firestore, Storage)  
-- **DevOps & Tools:** Git, GitHub, CI simples, VS Code  
-- **Metodologias:** Scrum / Kanban, TDD (princípios), UML
+## ✨ Projetos de Destaque
 
----
+Confira alguns dos projetos que demonstram minha capacidade de entregar soluções do front-end ao back-end:
 
-## Projetos de destaque
-- **Vestibulize** — App gamificado para preparação ao vestibular (FATECs): banco de questões, simulados e testes vocacionais com IA. *(React Native, TypeScript, Firestore)*  
-- **FitMatch** — Plataforma de conexão entre jogadores e times (web + mobile). *(Node.js, Angular/React, Firestore)*  
-- **Safe Guardian** — Sistema de monitoramento e detecção de quedas para idosos (hardware + app).
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **Vestibulize** | **App gamificado** para preparação ao vestibular. Inclui banco de questões, simulados e um sistema de testes vocacionais com IA. | *React Native, TypeScript, Firebase/Firestore* |
+| **FitMatch** | Plataforma de conexão (web + mobile) entre jogadores e equipes esportivas, facilitando a organização de partidas e times. | *Node.js, Angular/React, Firestore* |
+| **Safe Guardian** | Sistema de monitoramento e **detecção de quedas** para idosos, combinando hardware (IoT) e uma aplicação mobile de alerta em tempo real. | *Hardware/IoT, React Native, Realtime Database* |
 
-> Links dos projetos e demos no perfil / repositórios.
-
----
-
-## Números & presença
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=vue" height="130"/>
-</div>
-
----
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/Gabriel-Messias-b38207253  
-- Instagram: https://instagram.com/gabrielmessias816  
-- Email: gabrieldev1738@gmail.com
+> Você pode encontrar os links de repositórios e demos na seção de 'Pinned Repositories' do meu perfil.
 
 ---
 
 
 
 ---
-*README minimalista e objetivo — pronto para você colar no seu perfil e deixar sua página com cara de profissional.*
+
+## 💬 Contato & Colaboração
+
+Estou ativamente buscando oportunidades de **Estágio** ou **Vagas Júnior/Pleno** na área de desenvolvimento mobile ou full stack.
+
+* **LinkedIn:** [Gabriel Messias](https://www.linkedin.com/in/Gabriel-Messias-b38207253) **(Melhor forma de contato!)**
+* **Email:** gabrieldev1738@gmail.com
+* **Instagram:** [gabrielmessias816](https://instagram.com/gabrielmessias816)
+
+> Quer discutir uma ideia, contribuir para um projeto ou falar sobre uma vaga? Me envie uma mensagem! Eu respondo rapidamente e estou sempre animado para transformar feedback em código útil.
+
+---
