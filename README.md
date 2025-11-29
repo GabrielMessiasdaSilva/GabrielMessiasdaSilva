@@ -46,19 +46,6 @@ Check out some projects demonstrating my ability to deliver end-to-end (front-en
 
 ---
 
-## 📊 GitHub Presence
-
-<div align="center">
-  <a href="https://github.com/GABRIELMESSIASDASILVA">
-    <img src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=nord&hide_border=true&line_height=25" height="130" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/GABRIELMESSIASDASILVA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&theme=nord&hide_border=true" height="130" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ## 💬 Contact & Collaboration
 
 I am actively seeking **Internship** or **Junior/Mid-level** opportunities in mobile or full stack development.
