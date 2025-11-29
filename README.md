@@ -39,7 +39,7 @@ Confira alguns dos projetos que demonstram minha capacidade de entregar soluçõ
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **Vestibulize** | **App gamificado** para preparação ao vestibular. Inclui banco de questões, simulados e um sistema de testes vocacionais com IA. | *React Native, TypeScript, Firebase/Firestore* |
-| **FitMatch** | Plataforma de conexão (web + mobile) entre jogadores e equipes esportivas, facilitando a organização de partidas e times. | *Node.js, Angular/React, Firestore* |
+| **FitMatch** | Plataforma de conexão (web + mobile) entre jogadores e equipes esportivas, facilitando a organização de partidas e times. | *Node.js, Angular,Kotlin e Firestore* |
 | **Safe Guardian** | Sistema de monitoramento e **detecção de quedas** para idosos, combinando hardware (IoT) e uma aplicação mobile de alerta em tempo real. | *Hardware/IoT, React Native, Realtime Database* |
 
 > Você pode encontrar os links de repositórios e demos na seção de 'Pinned Repositories' do meu perfil.
