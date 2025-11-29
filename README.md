@@ -1,63 +1,72 @@
-# 🚀 Gabriel Messias — Desenvolvedor Full Stack
+# 🚀 Gabriel Messias — Full Stack Developer
 
-### Estudante de Análise e Desenvolvimento de Sistemas | 💻 JavaScript | ⚛️ React Native | 🟢 Node.js
+### Student in Systems Analysis and Development | 💻 JavaScript | ⚛️ React Native | 🟢 Node.js
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D19D?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Stack_Principal-React_Native%20|%20TypeScript%20|%20Firebase-282C34?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Localização-São_Paulo,_Brasil-005F73?style=for-the-badge&logo=brasil"/>
+  <img src="https://img.shields.io/badge/Main_Stack-React_Native%20|%20TypeScript%20|%20Firebase-282C34?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Location-São_Paulo,_Brazil-005F73?style=for-the-badge&logo=brasil"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou **Gabriel Messias**, um desenvolvedor Full Stack com foco em construir **soluções móveis e web** que são robustas, escaláveis e, principalmente, fáceis de manter. Meu trabalho abrange o **ecossistema Full Stack**, desde a criação de interfaces responsivas e otimizadas com **React Native** até o desenvolvimento de APIs eficientes com **Node.js** e integração com serviços em nuvem como **Firebase**.
+I'm **Gabriel Messias**, a Full Stack Developer focused on building **robust, scalable, and maintainable** mobile and web solutions. My expertise spans the **Full Stack ecosystem**, from crafting responsive, optimized UIs with **React Native** to developing efficient APIs using **Node.js** and integrating with cloud services like **Firebase**.
 
-Minha prioridade é aplicar conceitos de **arquitetura limpa** (Clean Architecture) e focar em produtos educacionais e soluções que geram um **impacto real e positivo** para o usuário final.
+I prioritize applying **Clean Architecture** concepts and delivering educational products and solutions that generate a **tangible, positive impact** for the end-user.
 
 ---
 
-## 🛠️ Minhas Habilidades Técnicas
+## 🛠️ Technical Skills
 
-| Área | Tecnologias Chave |
+| Area | Key Technologies |
 | :--- | :--- |
-| **Linguagens** | **TypeScript**, JavaScript, Java |
-| **Desenvolvimento Mobile** | **React Native** (Expo & CLI), Context API / Redux, Estilização Avançada |
-| **Backend & Banco de Dados** | **Node.js**, Express.js, **Firebase** (Auth, Firestore, Storage) |
-| **Ferramentas & DevOps** | Git, GitHub Actions (CI simples), VS Code |
-| **Metodologias** | Scrum / Kanban, **Princípios de TDD**, Clean Architecture (Conceitos) |
+| **Languages** | **TypeScript**, JavaScript, Java, Kotlin |
+| **Mobile Development** | **React Native** (Expo & CLI), Context API / Redux, Advanced Styling |
+| **Backend & Database** | **Node.js**, Express.js, **Firebase** (Auth, Firestore, Storage) |
+| **Tools & DevOps** | Git, GitHub Actions (Basic CI), VS Code |
+| **Methodologies** | Scrum / Kanban, **TDD Principles**, Clean Architecture (Concepts) |
 
 ---
 
-## ✨ Projetos de Destaque
+## ✨ Featured Projects
 
-Confira alguns dos projetos que demonstram minha capacidade de entregar soluções do front-end ao back-end:
+Check out some projects demonstrating my ability to deliver end-to-end (front-end to back-end) solutions:
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **Vestibulize** | **App gamificado** para preparação ao vestibular. Inclui banco de questões, simulados e um sistema de testes vocacionais com IA. | *React Native, TypeScript, Firebase/Firestore* |
-| **FitMatch** | Plataforma de conexão (web + mobile) entre jogadores e equipes esportivas, facilitando a organização de partidas e times. | *Node.js, Angular,Kotlin e Firestore* |
-| **Safe Guardian** | Sistema de monitoramento e **detecção de quedas** para idosos, combinando hardware (IoT) e uma aplicação mobile de alerta em tempo real. | *Hardware/IoT, React Native, Realtime Database* |
+| **Vestibulize** | **Gamified app** for college entrance exam preparation. Includes a question bank, simulated tests, and an AI-driven vocational testing system. | *React Native, TypeScript, Firebase/Firestore* |
+| **FitMatch** | Connection platform (web + mobile) for players and sports teams, simplifying match organization and team setup. | *Node.js, Angular, Kotlin, Firestore* |
+| **Safe Guardian** | Elderly **fall detection** and monitoring system, combining hardware (IoT) with a real-time mobile alert application. | *Hardware/IoT, React Native, Realtime Database* |
 
-> Você pode encontrar os links de repositórios e demos na seção de 'Pinned Repositories' do meu perfil.
-
----
-
-
+> You can find repository links and demos in the 'Pinned Repositories' section of my profile.
 
 ---
 
-## 💬 Contato & Colaboração
+## 📊 GitHub Presence
 
-Estou ativamente buscando oportunidades de **Estágio** ou **Vagas Júnior/Pleno** na área de desenvolvimento mobile ou full stack.
+<div align="center">
+  <a href="https://github.com/GABRIELMESSIASDASILVA">
+    <img src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=nord&hide_border=true&line_height=25" height="130" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/GABRIELMESSIASDASILVA">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&theme=nord&hide_border=true" height="130" alt="Top Languages"/>
+  </a>
+</div>
 
-* **LinkedIn:** [Gabriel Messias](https://www.linkedin.com/in/Gabriel-Messias-b38207253) **(Melhor forma de contato!)**
+---
+
+## 💬 Contact & Collaboration
+
+I am actively seeking **Internship** or **Junior/Mid-level** opportunities in mobile or full stack development.
+
+* **LinkedIn:** [Gabriel Messias](https://www.linkedin.com/in/Gabriel-Messias-b38207253) **(Preferred Contact Method!)**
 * **Email:** gabrieldev1738@gmail.com
 * **Instagram:** [gabrielmessias816](https://instagram.com/gabrielmessias816)
 
-> Quer discutir uma ideia, contribuir para um projeto ou falar sobre uma vaga? Me envie uma mensagem! Eu respondo rapidamente e estou sempre animado para transformar feedback em código útil.
+> Want to discuss an idea, contribute to a project, or talk about an opening? Send me a message! I respond quickly and I'm always excited to turn feedback into meaningful code.
 
 ---
