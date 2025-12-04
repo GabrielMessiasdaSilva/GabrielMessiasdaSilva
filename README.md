@@ -24,7 +24,7 @@ I prioritize applying **Clean Architecture** concepts and delivering educational
 
 | Area | Key Technologies |
 | :--- | :--- |
-| **Languages** | **TypeScript**, JavaScript, Java, Kotlin |
+| **Languages** | **TypeScript**, JavaScript, Java |
 | **Mobile Development** | **React Native** (Expo & CLI), Context API / Redux, Advanced Styling |
 | **Backend & Database** | **Node.js**, Express.js, **Firebase** (Auth, Firestore, Storage) |
 | **Tools & DevOps** | Git, GitHub Actions (Basic CI), VS Code |
