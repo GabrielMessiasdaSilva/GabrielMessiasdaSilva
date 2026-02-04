@@ -5,7 +5,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D19D?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Main_Stack-React_Native%20|%20TypeScript%20|%20Firebase-282C34?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Location-São_Paulo,_Brazil-005F73?style=for-the-badge&logo=brasil"/>
 </p>
