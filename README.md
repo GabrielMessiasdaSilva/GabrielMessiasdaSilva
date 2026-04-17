@@ -1,58 +1,35 @@
-# 🚀 Gabriel Messias — Full Stack Developer
+🚀 Gabriel Messias — Desenvolvedor Full Stack
+Estudante de Análise e Desenvolvimento de Sistemas | 💻 JavaScript | ⚛️ React Native | 🟢 Node.js
+<p align="center"> <img src="https://img.shields.io/badge/Main_Stack-React_Native%20|%20TypeScript%20|%20Firebase-282C34?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Location-São_Paulo,_Brazil-005F73?style=for-the-badge&logo=brasil"/> </p>
+👨‍💻 Sobre Mim
 
-### Student in Systems Analysis and Development | 💻 JavaScript | ⚛️ React Native | 🟢 Node.js
+Sou Gabriel Messias, Desenvolvedor Full Stack com foco na construção de soluções mobile e web robustas, escaláveis e de fácil manutenção. Minha atuação abrange todo o ecossistema Full Stack, desde a criação de interfaces responsivas e otimizadas com React Native até o desenvolvimento de APIs eficientes com Node.js e integração com serviços em nuvem como o Firebase.
 
----
+Priorizo a aplicação de conceitos de Clean Architecture e a entrega de produtos e soluções que gerem um impacto real e positivo para o usuário final.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Stack-React_Native%20|%20TypeScript%20|%20Firebase-282C34?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Location-São_Paulo,_Brazil-005F73?style=for-the-badge&logo=brasil"/>
-</p>
+🛠️ Habilidades Técnicas
+Área	Principais Tecnologias
+Linguagens	TypeScript, JavaScript, Java
+Desenvolvimento Mobile	React Native (Expo & CLI), Context API / Redux, Estilização Avançada
+Backend & Banco de Dados	Node.js, Express.js, Firebase (Auth, Firestore, Storage)
+Ferramentas & DevOps	Git, GitHub Actions (CI básico), VS Code
+Metodologias	Scrum / Kanban, Princípios de TDD, Clean Architecture (conceitos)
+✨ Projetos em Destaque
 
----
+Confira alguns projetos que demonstram minha capacidade de entregar soluções completas (do front-end ao back-end):
 
-## 👨‍💻 About Me
+Projeto	Descrição	Tecnologias
+Vestibulize	Aplicativo gamificado para preparação de vestibulares. Inclui banco de questões, simulados e um sistema de orientação vocacional com IA.	React Native, TypeScript, Firebase/Firestore
+FitMatch	Plataforma de conexão (web + mobile) entre jogadores e times, facilitando a organização de partidas e formação de equipes.	Node.js, Angular, Kotlin, Firestore
+Safe Guardian	Sistema de detecção de quedas para idosos, combinando hardware (IoT) com um aplicativo mobile de alertas em tempo real.	Hardware/IoT, React Native, Realtime Database
 
-I'm **Gabriel Messias**, a Full Stack Developer focused on building **robust, scalable, and maintainable** mobile and web solutions. My expertise spans the **Full Stack ecosystem**, from crafting responsive, optimized UIs with **React Native** to developing efficient APIs using **Node.js** and integrating with cloud services like **Firebase**.
+Você pode encontrar os repositórios e demonstrações na seção de “Repositórios Fixados” do meu perfil.
 
-I prioritize applying **Clean Architecture** concepts and delivering educational products and solutions that generate a **tangible, positive impact** for the end-user.
+💬 Contato & Colaboração
 
----
+LinkedIn: Gabriel Messias
+ (Principal meio de contato!)
+Email: gabrieldev1738@gmail.com
+Instagram: gabrielmessias816
 
-## 🛠️ Technical Skills
-
-| Area | Key Technologies |
-| :--- | :--- |
-| **Languages** | **TypeScript**, JavaScript, Java |
-| **Mobile Development** | **React Native** (Expo & CLI), Context API / Redux, Advanced Styling |
-| **Backend & Database** | **Node.js**, Express.js, **Firebase** (Auth, Firestore, Storage) |
-| **Tools & DevOps** | Git, GitHub Actions (Basic CI), VS Code |
-| **Methodologies** | Scrum / Kanban, **TDD Principles**, Clean Architecture (Concepts) |
-
----
-
-## ✨ Featured Projects
-
-Check out some projects demonstrating my ability to deliver end-to-end (front-end to back-end) solutions:
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **Vestibulize** | **Gamified app** for college entrance exam preparation. Includes a question bank, simulated tests, and an AI-driven vocational testing system. | *React Native, TypeScript, Firebase/Firestore* |
-| **FitMatch** | Connection platform (web + mobile) for players and sports teams, simplifying match organization and team setup. | *Node.js, Angular, Kotlin, Firestore* |
-| **Safe Guardian** | Elderly **fall detection** and monitoring system, combining hardware (IoT) with a real-time mobile alert application. | *Hardware/IoT, React Native, Realtime Database* |
-
-> You can find repository links and demos in the 'Pinned Repositories' section of my profile.
-
----
-
-## 💬 Contact & Collaboration
-
-I am actively seeking **Internship** or **Junior/Mid-level** opportunities in mobile or full stack development.
-
-* **LinkedIn:** [Gabriel Messias](https://www.linkedin.com/in/Gabriel-Messias-b38207253) **(Preferred Contact Method!)**
-* **Email:** gabrieldev1738@gmail.com
-* **Instagram:** [gabrielmessias816](https://instagram.com/gabrielmessias816)
-
-> Want to discuss an idea, contribute to a project, or talk about an opening? Send me a message! I respond quickly and I'm always excited to turn feedback into meaningful code.
-
----
+Quer discutir uma ideia, contribuir em um projeto ou falar sobre uma oportunidade? Me envie uma mensagem. Costumo responder rapidamente e transformar feedback em código funcional.
