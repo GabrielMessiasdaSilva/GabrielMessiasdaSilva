@@ -32,9 +32,9 @@ Atualmente estou trabalhando na construção de **agentes de Inteligência Artif
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/SEU_LINK  
-- Email: gabrieldev1738@gmail.com  
-
+- LinkedIn: https://linkedin.com/in/gabriel-messias-b38207253  
+- Email: gabrieldev1738@gmail.com
+  
 ---
 
 ⭐ Sempre buscando evoluir e construir soluções inteligentes!
