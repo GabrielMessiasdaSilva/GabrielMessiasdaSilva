@@ -24,7 +24,7 @@ Atualmente estou trabalhando na construção de **agentes de Inteligência Artif
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielMessiasdaSilva&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://streak-stats.demolab.com?user=GabrielMessiasdaSilva&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMessiasdaSilva&layout=compact&theme=tokyonight)
 
