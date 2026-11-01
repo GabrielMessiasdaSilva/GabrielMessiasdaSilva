@@ -30,24 +30,24 @@ Valorizo código legível, boas práticas, organização e aprendizado contínuo
 
 **01. Backend**
 
-![Java](https://img.shields.io/badge/Java-252b35?style=flat&logo=openjdk&logoColor=7aa2f7)
-![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=flat&logo=quarkus&logoColor=7aa2f7)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-252b35?style=flat&logo=springboot&logoColor=a6c9b8)
-![REST APIs](https://img.shields.io/badge/REST_APIs-252b35?style=flat&logo=fastapi&logoColor=9ba9bd)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=flat&logo=oracle&logoColor=a6c9b8)
+![Java](https://img.shields.io/badge/Java-252b35?style=for-the-badge&logo=openjdk&logoColor=7aa2f7)
+![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=for-the-badge&logo=quarkus&logoColor=7aa2f7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-252b35?style=for-the-badge&logo=springboot&logoColor=a6c9b8)
+![REST APIs](https://img.shields.io/badge/REST_APIs-252b35?style=for-the-badge&logo=fastapi&logoColor=9ba9bd)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=for-the-badge&logo=oracle&logoColor=a6c9b8)
 
 **02. Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-252b35?style=flat&logo=angular&logoColor=b4a0e8)
-![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat&logo=react&logoColor=7aa2f7)
-![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat&logo=typescript&logoColor=7aa2f7)
+![Angular](https://img.shields.io/badge/Angular-252b35?style=for-the-badge&logo=angular&logoColor=b4a0e8)
+![React Native](https://img.shields.io/badge/React_Native-252b35?style=for-the-badge&logo=react&logoColor=7aa2f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=for-the-badge&logo=typescript&logoColor=7aa2f7)
 
 **03. DevOps & Ferramentas**
 
-![Docker](https://img.shields.io/badge/Docker-252b35?style=flat&logo=docker&logoColor=7aa2f7)
-![Azure](https://img.shields.io/badge/Azure-252b35?style=flat&logo=microsoftazure&logoColor=7aa2f7)
-![Linux](https://img.shields.io/badge/Linux-252b35?style=flat&logo=linux&logoColor=a6c9b8)
-![Git](https://img.shields.io/badge/Git-252b35?style=flat&logo=git&logoColor=e0a080)
+![Docker](https://img.shields.io/badge/Docker-252b35?style=for-the-badge&logo=docker&logoColor=7aa2f7)
+![Azure](https://img.shields.io/badge/Azure-252b35?style=for-the-badge&logo=microsoftazure&logoColor=7aa2f7)
+![Linux](https://img.shields.io/badge/Linux-252b35?style=for-the-badge&logo=linux&logoColor=a6c9b8)
+![Git](https://img.shields.io/badge/Git-252b35?style=for-the-badge&logo=git&logoColor=e0a080)
 
 ## `$ featured-projects`
 
@@ -125,6 +125,14 @@ Experimentos e aplicações desenvolvidos para praticar lógica de programação
 
 </div>
 
+## `$ jogo-da-cobrinha`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GabrielMessiasdaSilva/GabrielMessiasdaSilva/output/github-contribution-grid-snake.svg" alt="Animação do jogo da cobrinha percorrendo as contribuições do GitHub" width="100%" />
+
+</div>
+
 ## `$ currently_learning`
 
 Buscando aprofundar meus conhecimentos em:
@@ -135,11 +143,6 @@ Buscando aprofundar meus conhecimentos em:
 - **Modelagem:** UML e representação de sistemas.
 - **Backend:** aprofundamento em Java, APIs REST e desenvolvimento de serviços.
 
-## `$ beyond_code`
-
-Acredito que ser desenvolvedor vai além de escrever código.
-
-Também tenho interesse em engenharia de software, resolução de problemas, aprendizado de idiomas e estudos sobre tecnologia e suas aplicações na sociedade.
 
 
 
