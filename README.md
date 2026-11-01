@@ -4,12 +4,6 @@
 
 <br/>
 
-**Software Developer | Backend & Full Stack**
-
-Construindo soluções, explorando tecnologias e evoluindo a cada commit.
-
-<br/>
-
 <a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253">
   <img src="https://img.shields.io/badge/LinkedIn-252b35?style=flat-square&logo=linkedin&logoColor=7aa2f7" />
 </a>
