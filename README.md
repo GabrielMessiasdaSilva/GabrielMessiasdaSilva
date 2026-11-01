@@ -1,11 +1,22 @@
- <div align="center">
+ 
+<div align="center">
 
 <img src="./assets/banner.svg" alt="Terminal de Gabriel Messias da Silva" width="100%" />
 
 <br/>
 
+**Desenvolvedor de Software | Backend & Full Stack**
+
+<a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-252b35?style=flat-square&logo=linkedin&logoColor=7aa2f7" />
+</a>
+<a href="https://github.com/GabrielMessiasdaSilva">
+  <img src="https://img.shields.io/badge/GitHub-Repositórios-252b35?style=flat-square&logo=github&logoColor=9ba9bd" />
+</a>
+
 </div>
 
+---
 
 ## `$ whoami`
 
@@ -21,12 +32,14 @@ Valorizo código legível, boas práticas, organização e aprendizado contínuo
 
 ![Java](https://img.shields.io/badge/Java-252b35?style=flat-square&logo=openjdk&logoColor=7aa2f7)
 ![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=flat-square&logo=quarkus&logoColor=7aa2f7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-252b35?style=flat-square&logo=springboot&logoColor=a6c9b8)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-252b35?style=flat-square&logo=fastapi&logoColor=9ba9bd)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=flat-square&logo=oracle&logoColor=a6c9b8)
 
 **02. Frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-252b35?style=flat-square&logo=angular&logoColor=b4a0e8)
+![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat-square&logo=react&logoColor=7aa2f7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat-square&logo=typescript&logoColor=7aa2f7)
 
 **03. DevOps & Ferramentas**
@@ -38,7 +51,7 @@ Valorizo código legível, boas práticas, organização e aprendizado contínuo
 
 ## `$ featured-projects`
 
-Projetos em que aplico meus conhecimentos e exploro novas tecnologias.
+Projetos em que aplico meus conhecimentos para resolver problemas reais e explorar diferentes tecnologias.
 
 <table>
 <tr>
@@ -46,22 +59,23 @@ Projetos em que aplico meus conhecimentos e exploro novas tecnologias.
 
 ### 🐾 MellowPet
 
-Aplicação voltada ao bem-estar emocional, combinando tecnologia, inteligência artificial e interação com um pet virtual.
+Aplicação voltada ao bem-estar emocional, combinando inteligência artificial e interação com um pet virtual para proporcionar acolhimento e suporte emocional.
 
 **Tecnologias**
 
 ![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat-square&logo=react&logoColor=7aa2f7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat-square&logo=typescript&logoColor=7aa2f7)
 ![Python](https://img.shields.io/badge/Python-252b35?style=flat-square&logo=python&logoColor=a6c9b8)
+![FastAPI](https://img.shields.io/badge/FastAPI-252b35?style=flat-square&logo=fastapi&logoColor=a6c9b8)
 
-<a href="https://github.com/GabrielMessiasdaSilva">Ver projetos →</a>
+<a href="https://github.com/GabrielMessiasdaSilva/MellowPet">Ver repositório →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Poiesis
 
-Projeto acadêmico voltado à personalização de roupas, utilizando arquitetura baseada em serviços e comunicação entre componentes.
+Sistema acadêmico de personalização de roupas, desenvolvido com arquitetura baseada em serviços e comunicação assíncrona entre componentes.
 
 **Tecnologias**
 
@@ -73,7 +87,43 @@ Projeto acadêmico voltado à personalização de roupas, utilizando arquitetura
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👴🏽 Safe Guardian
+
+Sistema IoT de monitoramento e detecção de quedas em tempo real, desenvolvido para auxiliar no cuidado de idosos. Ao identificar uma possível queda, envia alertas ao cuidador por meio de um aplicativo mobile.
+
+Apresentado em feiras tecnológicas e com artigo científico publicado.
+
+**Tecnologias**
+
+![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat-square&logo=react&logoColor=7aa2f7)
+![Expo](https://img.shields.io/badge/Expo-252b35?style=flat-square&logo=expo&logoColor=9ba9bd)
+![IoT](https://img.shields.io/badge/IoT-252b35?style=flat-square&logo=arduino&logoColor=a6c9b8)
+
+<a href="https://github.com/GabrielMessiasdaSilva/SafeaGuardian">Ver repositório →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Outros projetos
+
+Experimentos e aplicações desenvolvidos para praticar lógica de programação, explorar tecnologias e aprimorar minhas habilidades de desenvolvimento.
+
+<a href="https://github.com/GabrielMessiasdaSilva?tab=repositories">Explorar repositórios →</a>
+
+</td>
+</tr>
 </table>
+
+## `$ github-analytics`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GabrielMessiasdaSilva&hide_border=true&background=0D1117&ring=7AA2F7&fire=E0A080&currStreakLabel=7AA2F7&sideLabels=9BA9BD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BA9BD" />
+
+</div>
 
 ## `$ currently_learning`
 
@@ -92,6 +142,4 @@ Acredito que ser desenvolvedor vai além de escrever código.
 Também tenho interesse em engenharia de software, resolução de problemas, aprendizado de idiomas e estudos sobre tecnologia e suas aplicações na sociedade.
 
 
-<img src="https://img.shields.io/badge/Always%20learning-252b35?style=flat-square&logo=github&logoColor=9ba9bd" />
 
-</div>
