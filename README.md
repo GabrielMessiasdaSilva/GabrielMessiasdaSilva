@@ -106,17 +106,6 @@ Acredito que ser desenvolvedor vai além de escrever código.
 
 Também tenho interesse em engenharia de software, resolução de problemas, aprendizado de idiomas e estudos sobre tecnologia e suas aplicações na sociedade.
 
-## `$ philosophy`
-
-> Menos ruído. Mais código com propósito.
-
-<div align="center">
-
-<br/>
-
-<sub>Construindo. Aprendendo. Evoluindo.</sub>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Always%20learning-252b35?style=flat-square&logo=github&logoColor=9ba9bd" />
 
