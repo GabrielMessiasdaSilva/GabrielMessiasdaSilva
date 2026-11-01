@@ -125,14 +125,6 @@ Experimentos e aplicações desenvolvidos para praticar lógica de programação
 
 </div>
 
-## `$ jogo-da-cobrinha`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GabrielMessiasdaSilva/GabrielMessiasdaSilva/output/github-contribution-grid-snake.svg" alt="Animação do jogo da cobrinha percorrendo as contribuições do GitHub" width="100%" />
-
-</div>
-
 ## `$ currently_learning`
 
 Buscando aprofundar meus conhecimentos em:
@@ -142,6 +134,13 @@ Buscando aprofundar meus conhecimentos em:
 - **Arquitetura de Software:** Clean Architecture e organização em camadas.
 - **Modelagem:** UML e representação de sistemas.
 - **Backend:** aprofundamento em Java, APIs REST e desenvolvimento de serviços.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GabrielMessiasdaSilva/GabrielMessiasdaSilva/output/github-contribution-grid-snake.svg" alt="Animação do jogo da cobrinha percorrendo as contribuições do GitHub" width="100%" />
+
+</div>
+
 
 
 

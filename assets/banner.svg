@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
   <title id="title">Terminal de Gabriel Messias da Silva</title>
-  <desc id="desc">Janela de terminal escura com comandos de apresentação e uma linha digitada com animação.</desc>
+  <desc id="desc">Janela de terminal escura com comandos e respostas revelados em sequência, como se estivessem sendo digitados.</desc>
   <defs>
     <clipPath id="window"><rect x="1" y="1" width="898" height="328" rx="12"/></clipPath>
   </defs>
@@ -9,11 +9,31 @@
     .line { fill: #c5ceda; font-size: 15px; }
     .prompt { fill: #55aaff; font-size: 15px; }
     .muted { fill: #768397; font-size: 13px; }
-    .typed { animation: reveal 2.2s steps(31, end) 1.2s both; }
+    .typing { clip-path: inset(0 100% 0 0); }
+    .header { animation: fade-in .5s ease-out both; }
+    .whoami-command, .role-command, .focus-command { clip-path: none; }
+    .whoami-output { animation: type-name 10s steps(25, end) infinite; }
+    .role-output { animation: type-role 10s steps(42, end) infinite; }
+    .focus-output { animation: type-focus 10s steps(86, end) infinite; }
     .cursor { animation: blink 1s steps(2, start) infinite; }
-    @keyframes reveal { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+    @keyframes type-name {
+      0%, 3% { clip-path: inset(0 100% 0 0); }
+      18%, 90% { clip-path: inset(0 0 0 0); }
+      100% { clip-path: inset(0 100% 0 0); }
+    }
+    @keyframes type-role {
+      0%, 23% { clip-path: inset(0 100% 0 0); }
+      43%, 90% { clip-path: inset(0 0 0 0); }
+      100% { clip-path: inset(0 100% 0 0); }
+    }
+    @keyframes type-focus {
+      0%, 50% { clip-path: inset(0 100% 0 0); }
+      79%, 90% { clip-path: inset(0 0 0 0); }
+      100% { clip-path: inset(0 100% 0 0); }
+    }
+    @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
     @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .typed, .cursor { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .typing, .header, .cursor { animation: none; clip-path: none; opacity: 1; } }
   </style>
   <g clip-path="url(#window)">
     <rect width="900" height="330" fill="#07090d"/>
@@ -22,17 +42,16 @@
     <circle cx="22" cy="21" r="5" fill="#ff5f57"/>
     <circle cx="40" cy="21" r="5" fill="#febc2e"/>
     <circle cx="58" cy="21" r="5" fill="#28c840"/>
-    <text x="450" y="25" class="muted" text-anchor="middle">gabriel@dev: ~/profile</text>
+    <text x="450" y="25" class="muted header" text-anchor="middle">gabriel@dev: ~/profile</text>
 
-    <text x="30" y="82" class="prompt">gabriel@dev <tspan fill="#687386">~</tspan> $ whoami</text>
-    <text x="30" y="108" class="line">Gabriel Messias da Silva</text>
+    <text x="30" y="108" class="line typing whoami-output">Gabriel Messias da Silva</text>
 
-    <text x="30" y="151" class="prompt">gabriel@dev <tspan fill="#687386">~</tspan> $ role</text>
-    <text x="30" y="177" class="line">Desenvolvedor Full Stack · Java / Angular</text>
+    <text x="30" y="177" class="line typing role-output">Desenvolvedor Full Stack · Java / Angular</text>
 
-    <text x="30" y="220" class="prompt">gabriel@dev <tspan fill="#687386">~</tspan> $ cat focus.txt</text>
-    <g class="typed"><text x="30" y="246" class="line">APIs REST, aplicações web e código bem estruturado.</text></g>
-    <rect class="cursor" x="30" y="270" width="8" height="16" rx="1" fill="#55aaff"/>
+    <text x="30" y="246" class="line typing focus-output">Soluções que usam tecnologia para resolver problemas reais e melhorar a vida das pessoas.</text>
+    <text x="30" y="82" class="prompt whoami-command">gabriel@dev <tspan fill="#687386">~</tspan> $ whoami</text>
+    <text x="30" y="151" class="prompt role-command">gabriel@dev <tspan fill="#687386">~</tspan> $ role</text>
+    <text x="30" y="220" class="prompt focus-command">gabriel@dev <tspan fill="#687386">~</tspan> $ cat focus.txt</text>
 
     <rect x="1" y="1" width="898" height="328" rx="12" fill="none" stroke="#202733" stroke-width="2"/>
   </g>
