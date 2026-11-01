@@ -4,12 +4,19 @@
 
 <br/>
 
-**Desenvolvedor de Software | Backend & Full Stack**
+**Software Developer | Backend & Full Stack**
+
+Construindo soluções, explorando tecnologias e evoluindo a cada commit.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-252b35?style=flat-square&logo=linkedin&logoColor=9ba9bd" />
+  <img src="https://img.shields.io/badge/LinkedIn-252b35?style=flat-square&logo=linkedin&logoColor=7aa2f7" />
 </a>
-<img src="https://img.shields.io/badge/ADS-Estudante-252b35?style=flat-square&logo=academia&logoColor=9ba9bd" />
+<a href="https://github.com/GabrielMessiasdaSilva">
+  <img src="https://img.shields.io/badge/GitHub-252b35?style=flat-square&logo=github&logoColor=9ba9bd" />
+</a>
+<img src="https://img.shields.io/badge/ADS-252b35?style=flat-square&logo=academia&logoColor=a6c9b8" />
 
 </div>
 
@@ -17,39 +24,87 @@
 
 ## `$ whoami`
 
-Desenvolvedor de software interessado em construir aplicações bem estruturadas, APIs REST e soluções que resolvam problemas reais.
+Desenvolvedor de software interessado em transformar problemas reais em soluções eficientes, bem estruturadas e escaláveis.
 
-Tenho foco em desenvolvimento **Backend com Java**, explorando tecnologias como Quarkus e arquitetura de software, sem deixar de lado o desenvolvimento Full Stack.
+Meu principal foco é o **desenvolvimento Backend com Java**, trabalhando com APIs REST, Quarkus e conceitos de arquitetura de software. Também exploro o desenvolvimento Full Stack para compreender melhor todo o ciclo de construção de uma aplicação.
 
-Acredito em código legível, boas práticas e aprendizado contínuo.
+Valorizo código legível, boas práticas, organização e aprendizado contínuo.
 
 ## `$ tech-stack`
 
-**Backend**
+**01. Backend**
 
-![Java](https://img.shields.io/badge/Java-252b35?style=flat-square&logo=openjdk&logoColor=9ba9bd)
-![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=flat-square&logo=quarkus&logoColor=9ba9bd)
-![REST API](https://img.shields.io/badge/REST_APIs-252b35?style=flat-square&logo=fastapi&logoColor=9ba9bd)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=flat-square&logo=oracle&logoColor=9ba9bd)
+![Java](https://img.shields.io/badge/Java-252b35?style=flat-square&logo=openjdk&logoColor=7aa2f7)
+![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=flat-square&logo=quarkus&logoColor=7aa2f7)
+![REST APIs](https://img.shields.io/badge/REST_APIs-252b35?style=flat-square&logo=fastapi&logoColor=9ba9bd)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=flat-square&logo=oracle&logoColor=a6c9b8)
 
-**Frontend**
+**02. Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-252b35?style=flat-square&logo=angular&logoColor=9ba9bd)
-![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat-square&logo=typescript&logoColor=9ba9bd)
+![Angular](https://img.shields.io/badge/Angular-252b35?style=flat-square&logo=angular&logoColor=b4a0e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat-square&logo=typescript&logoColor=7aa2f7)
 
-**DevOps & Ferramentas**
+**03. DevOps & Ferramentas**
 
-![Docker](https://img.shields.io/badge/Docker-252b35?style=flat-square&logo=docker&logoColor=9ba9bd)
-![Azure](https://img.shields.io/badge/Azure-252b35?style=flat-square&logo=microsoftazure&logoColor=9ba9bd)
-![Linux](https://img.shields.io/badge/Linux-252b35?style=flat-square&logo=linux&logoColor=9ba9bd)
-![Git](https://img.shields.io/badge/Git-252b35?style=flat-square&logo=git&logoColor=9ba9bd)
+![Docker](https://img.shields.io/badge/Docker-252b35?style=flat-square&logo=docker&logoColor=7aa2f7)
+![Azure](https://img.shields.io/badge/Azure-252b35?style=flat-square&logo=microsoftazure&logoColor=7aa2f7)
+![Linux](https://img.shields.io/badge/Linux-252b35?style=flat-square&logo=linux&logoColor=a6c9b8)
+![Git](https://img.shields.io/badge/Git-252b35?style=flat-square&logo=git&logoColor=e0a080)
+
+## `$ featured-projects`
+
+Projetos em que aplico meus conhecimentos e exploro novas tecnologias.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 MellowPet
+
+Aplicação voltada ao bem-estar emocional, combinando tecnologia, inteligência artificial e interação com um pet virtual.
+
+**Tecnologias**
+
+![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat-square&logo=react&logoColor=7aa2f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat-square&logo=typescript&logoColor=7aa2f7)
+![Python](https://img.shields.io/badge/Python-252b35?style=flat-square&logo=python&logoColor=a6c9b8)
+
+<a href="https://github.com/GabrielMessiasdaSilva">Ver projetos →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Poiesis
+
+Projeto acadêmico voltado à personalização de roupas, utilizando arquitetura baseada em serviços e comunicação entre componentes.
+
+**Tecnologias**
+
+![Java](https://img.shields.io/badge/Java-252b35?style=flat-square&logo=openjdk&logoColor=7aa2f7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-252b35?style=flat-square&logo=springboot&logoColor=a6c9b8)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-252b35?style=flat-square&logo=rabbitmq&logoColor=e0a080)
+
+<a href="https://github.com/GabrielMessiasdaSilva/poiesis">Ver repositório →</a>
+
+</td>
+</tr>
+</table>
 
 ## `$ currently_learning`
 
-- Clean Code e princípios SOLID
-- UML e modelagem de software
-- Arquitetura de Software
-- Boas práticas no desenvolvimento Backend
+Buscando aprofundar meus conhecimentos em:
+
+- **Clean Code:** código legível e de fácil manutenção.
+- **SOLID:** princípios para melhorar a organização do software.
+- **Arquitetura de Software:** Clean Architecture e organização em camadas.
+- **Modelagem:** UML e representação de sistemas.
+- **Backend:** aprofundamento em Java, APIs REST e desenvolvimento de serviços.
+
+## `$ beyond_code`
+
+Acredito que ser desenvolvedor vai além de escrever código.
+
+Também tenho interesse em engenharia de software, resolução de problemas, aprendizado de idiomas e estudos sobre tecnologia e suas aplicações na sociedade.
 
 ## `$ philosophy`
 
@@ -57,6 +112,12 @@ Acredito em código legível, boas práticas e aprendizado contínuo.
 
 <div align="center">
 
-<sub>Desenvolvido com curiosidade, café e algumas linhas de código.</sub>
+<br/>
+
+<sub>Construindo. Aprendendo. Evoluindo.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always%20learning-252b35?style=flat-square&logo=github&logoColor=9ba9bd" />
 
 </div>
