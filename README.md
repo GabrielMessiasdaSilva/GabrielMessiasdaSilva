@@ -30,24 +30,24 @@ Valorizo código legível, boas práticas, organização e aprendizado contínuo
 
 **01. Backend**
 
-![Java](https://img.shields.io/badge/Java-252b35?style=flat-square&logo=openjdk&logoColor=7aa2f7)
-![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=flat-square&logo=quarkus&logoColor=7aa2f7)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-252b35?style=flat-square&logo=springboot&logoColor=a6c9b8)
-![REST APIs](https://img.shields.io/badge/REST_APIs-252b35?style=flat-square&logo=fastapi&logoColor=9ba9bd)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=flat-square&logo=oracle&logoColor=a6c9b8)
+![Java](https://img.shields.io/badge/Java-252b35?style=flat&logo=openjdk&logoColor=7aa2f7)
+![Quarkus](https://img.shields.io/badge/Quarkus-252b35?style=flat&logo=quarkus&logoColor=7aa2f7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-252b35?style=flat&logo=springboot&logoColor=a6c9b8)
+![REST APIs](https://img.shields.io/badge/REST_APIs-252b35?style=flat&logo=fastapi&logoColor=9ba9bd)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-252b35?style=flat&logo=oracle&logoColor=a6c9b8)
 
 **02. Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-252b35?style=flat-square&logo=angular&logoColor=b4a0e8)
-![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat-square&logo=react&logoColor=7aa2f7)
-![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat-square&logo=typescript&logoColor=7aa2f7)
+![Angular](https://img.shields.io/badge/Angular-252b35?style=flat&logo=angular&logoColor=b4a0e8)
+![React Native](https://img.shields.io/badge/React_Native-252b35?style=flat&logo=react&logoColor=7aa2f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-252b35?style=flat&logo=typescript&logoColor=7aa2f7)
 
 **03. DevOps & Ferramentas**
 
-![Docker](https://img.shields.io/badge/Docker-252b35?style=flat-square&logo=docker&logoColor=7aa2f7)
-![Azure](https://img.shields.io/badge/Azure-252b35?style=flat-square&logo=microsoftazure&logoColor=7aa2f7)
-![Linux](https://img.shields.io/badge/Linux-252b35?style=flat-square&logo=linux&logoColor=a6c9b8)
-![Git](https://img.shields.io/badge/Git-252b35?style=flat-square&logo=git&logoColor=e0a080)
+![Docker](https://img.shields.io/badge/Docker-252b35?style=flat&logo=docker&logoColor=7aa2f7)
+![Azure](https://img.shields.io/badge/Azure-252b35?style=flat&logo=microsoftazure&logoColor=7aa2f7)
+![Linux](https://img.shields.io/badge/Linux-252b35?style=flat&logo=linux&logoColor=a6c9b8)
+![Git](https://img.shields.io/badge/Git-252b35?style=flat&logo=git&logoColor=e0a080)
 
 ## `$ featured-projects`
 
