@@ -1,118 +1,118 @@
-<!-- HEADER ANIMADO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Gabriel%20Messias%20da%20Silva&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%F0%9F%9A%80&descAlignY=55"/>
+<img src="./assets/banner.svg" alt="Terminal: Gabriel Messias da Silva, Desenvolvedor Full Stack, Java e Angular, aberto a oportunidades" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Seja+bem-vindo+ao+meu+perfil!;Java+%7C+Angular+%7C+Docker+%7C+Azure;Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-ABERTO_A_OPORTUNIDADES-3fb950?style=for-the-badge&labelColor=0d1117)
+![Foco](https://img.shields.io/badge/BUSCO-EST%C3%81GIO_%2F_J%C3%9ANIOR-00D9FF?style=for-the-badge&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/STACK-JAVA_%2B_ANGULAR-DD0031?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+## ⚡ Recrutador? Leia isto em 10 segundos
 
-Olá! Me chamo **Gabriel Messias da Silva**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
-
-🎯 Atualmente focado em desenvolvimento **Full Stack**, arquitetura de aplicações modernas e boas práticas de desenvolvimento.
-
-💡 Tenho experiência com aplicações utilizando:
-
-- ⚡ Java & Quarkus
-- 🌐 Angular & TypeScript
-- 🐳 Docker
-- ☁️ Azure
-- 🗄️ PL/SQL
-- 🐧 Linux
-- 🔧 Git & GitHub
-
-📚 Também estudo:
-
-- Metodologias Ágeis
-- UML
-- Clean Code
-- APIs REST
-- Arquitetura de Software
+| | |
+|---|---|
+| **Quem sou** | Gabriel Messias da Silva, estudante de Análise e Desenvolvimento de Sistemas |
+| **O que faço** | APIs REST em **Java/Quarkus** + interfaces em **Angular/TypeScript** |
+| **Também domino** | Docker · Azure · PL/SQL (Oracle) · Linux · Git |
+| **Estou estudando** | Clean Code, UML, Arquitetura de Software |
+| **Procuro** | Estágio / vaga júnior em desenvolvimento Full Stack |
+| **Melhor forma de falar comigo** | [LinkedIn](https://www.linkedin.com/in/Gabriel-Messias-b38207253) ou [e-mail](mailto:SEU-EMAIL-AQUI@gmail.com) |
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 Meu perfil, em código
+
+```java
+public class Gabriel implements DesenvolvedorFullStack {
+
+    String   nome       = "Gabriel Messias da Silva";
+    String   formacao   = "Análise e Desenvolvimento de Sistemas";
+    String[] backend    = {"Java", "Quarkus", "PL/SQL", "APIs REST"};
+    String[] frontend   = {"Angular", "TypeScript"};
+    String[] infra      = {"Docker", "Azure", "Linux", "Git"};
+    String   estudando  = "Clean Code, UML e Arquitetura de Software";
+    boolean  abertoParaOportunidades = true;
+
+    public String objetivo() {
+        return "Entregar software legível, bem estruturado e que resolve problema real.";
+    }
+}
+```
+
+> ✏️ **Opcional, mas poderoso:** adicione aqui 1–2 frases suas, tipo *"Comecei a programar porque [motivo real]."* Histórias reais ficam na memória do recrutador.
+
+---
+
+## 🛠️ Projetos em destaque
+
+> Troque `NOME-DO-REPO` pelo nome exato de cada repositório. Os cards se atualizam sozinhos.
 
 <div align="center">
 
-### 💻 Linguagens & Frameworks
+<a href="https://github.com/GABRIELMESSIASDASILVA/NOME-DO-REPO-1">
+  <img alt="Projeto 1" src="https://github-readme-stats.vercel.app/api/pin/?username=GABRIELMESSIASDASILVA&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+</a>
+<a href="https://github.com/GABRIELMESSIASDASILVA/NOME-DO-REPO-2">
+  <img alt="Projeto 2" src="https://github-readme-stats.vercel.app/api/pin/?username=GABRIELMESSIASDASILVA&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+</a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+</div>
+
+**Para cada projeto, escreva no README dele:**
+**Problema** (o que resolve) → **Solução** (como você construiu) → **Stack** → **Print/GIF** → **Como rodar** (`docker compose up`).
+
+---
+
+## 🧰 Stack
+
+<div align="center">
+
+<img alt="Tecnologias" src="https://skillicons.dev/icons?i=java,angular,ts,js,nodejs,docker,azure,linux,oracle,mysql,git,github,idea,vscode&theme=dark" />
+
+<br><br>
+
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🗄️ Banco de Dados
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white)
+![REST](https://img.shields.io/badge/APIs_REST-0d1117?style=for-the-badge&logo=postman&logoColor=00d9ff)
 
 </div>
 
 ---
 
-
-</div>
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GABRIELMESSIASDASILVA&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# 🌎 Contato
+## 📈 Consistência
 
 <div align="center">
+
+<img height="150" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=GABRIELMESSIASDASILVA&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img height="150" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Vamos conversar?
 
 <a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Falar_comigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:SEU-EMAIL-AQUI@gmail.com">
+<img alt="E-mail" src="https://img.shields.io/badge/E--mail-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<!-- Quando tiver, adicione o currículo:
+<a href="LINK-DO-SEU-CURRICULO-PDF">
+<img alt="Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo-Baixar_PDF-00D9FF?style=for-the-badge&logo=readme&logoColor=black"/>
+</a>
+-->
 
-<a href="https://instagram.com/gabrielmessias816" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<sub>Obrigado por passar por aqui. 🚀</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### 🚀 “Transformando ideias em código todos os dias.”
-
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
