@@ -4,17 +4,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/Gabriel-Messias-b38207253">
-  <img src="https://img.shields.io/badge/LinkedIn-252b35?style=flat-square&logo=linkedin&logoColor=7aa2f7" />
-</a>
-<a href="https://github.com/GabrielMessiasdaSilva">
-  <img src="https://img.shields.io/badge/GitHub-252b35?style=flat-square&logo=github&logoColor=9ba9bd" />
-</a>
-<img src="https://img.shields.io/badge/ADS-252b35?style=flat-square&logo=academia&logoColor=a6c9b8" />
-
 </div>
 
----
 
 ## `$ whoami`
 
