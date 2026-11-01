@@ -1,27 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Messias da Silva</title>
-  <desc id="desc">Desenvolvedor Full Stack com foco em Java, Quarkus e Angular.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal de Gabriel Messias da Silva</title>
+  <desc id="desc">Janela de terminal escura com comandos de apresentação e uma linha digitada com animação.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05070b"/>
-      <stop offset="1" stop-color="#090e18"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#087bff" stop-opacity=".2"/>
-      <stop offset="1" stop-color="#087bff" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#5d7ca8" stroke-opacity=".08" stroke-width="1"/>
-    </pattern>
+    <clipPath id="window"><rect x="1" y="1" width="898" height="328" rx="12"/></clipPath>
   </defs>
-  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-  <ellipse cx="950" cy="130" rx="360" ry="260" fill="url(#glow)"/>
-  <path d="M64 72v156" stroke="#1685ff" stroke-width="4" stroke-linecap="round"/>
-  <text x="96" y="132" fill="#f2f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">Gabriel Messias da Silva</text>
-  <text x="98" y="177" fill="#78b7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="3">DESENVOLVEDOR FULL STACK</text>
-  <text x="98" y="222" fill="#aab7ca" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Java <tspan fill="#1685ff">/</tspan> Quarkus <tspan fill="#1685ff">/</tspan> Angular <tspan fill="#1685ff">/</tspan> TypeScript</text>
-  <circle cx="1100" cy="90" r="4" fill="#2b91ff"/>
-  <circle cx="1130" cy="90" r="4" fill="#2b91ff" fill-opacity=".55"/>
-  <circle cx="1160" cy="90" r="4" fill="#2b91ff" fill-opacity=".25"/>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .line { fill: #c5ceda; font-size: 15px; }
+    .prompt { fill: #55aaff; font-size: 15px; }
+    .muted { fill: #768397; font-size: 13px; }
+    .typed { animation: reveal 2.2s steps(31, end) 1.2s both; }
+    .cursor { animation: blink 1s steps(2, start) infinite; }
+    @keyframes reveal { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .typed, .cursor { animation: none; } }
+  </style>
+  <g clip-path="url(#window)">
+    <rect width="900" height="330" fill="#07090d"/>
+    <rect width="900" height="42" fill="#0d1118"/>
+    <path d="M0 42H900" stroke="#1c2430"/>
+    <circle cx="22" cy="21" r="5" fill="#ff5f57"/>
+    <circle cx="40" cy="21" r="5" fill="#febc2e"/>
+    <circle cx="58" cy="21" r="5" fill="#28c840"/>
+    <text x="450" y="25" class="muted" text-anchor="middle">gabriel@dev: ~/profile</text>
+
+    <text x="30" y="82" class="prompt">gabriel@dev <tspan fill="#687386">~</tspan> $ whoami</text>
+    <text x="30" y="108" class="line">Gabriel Messias da Silva</text>
+
+    <text x="30" y="151" class="prompt">gabriel@dev <tspan fill="#687386">~</tspan> $ role</text>
+    <text x="30" y="177" class="line">Desenvolvedor Full Stack · Java / Angular</text>
+
+    <text x="30" y="220" class="prompt">gabriel@dev <tspan fill="#687386">~</tspan> $ cat focus.txt</text>
+    <g class="typed"><text x="30" y="246" class="line">APIs REST, aplicações web e código bem estruturado.</text></g>
+    <rect class="cursor" x="30" y="270" width="8" height="16" rx="1" fill="#55aaff"/>
+
+    <rect x="1" y="1" width="898" height="328" rx="12" fill="none" stroke="#202733" stroke-width="2"/>
+  </g>
 </svg>
